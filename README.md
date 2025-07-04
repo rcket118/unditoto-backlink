@@ -1,19 +1,60 @@
-# Unditoto Backlink & Prediksi
+# 🔗 Unditoto Backlink SEO Repository
 
-Ini adalah repositori untuk menampung artikel HTML seputar prediksi togel dan backlink menuju situs resmi Unditoto.
+**Selamat datang di repositori Unditoto!**  
+Ini adalah pusat distribusi konten SEO ringan berbasis HTML, digunakan untuk memperkuat visibilitas brand **Unditoto** di mesin pencari seperti Google dan Bing.
 
-## 🔗 Link Utama
-👉 [Kunjungi Situs Unditoto](https://mez.ink/unditotosini)
+---
 
-## 📄 Halaman yang Tersedia
-- [index.html](https://rcket118.github.io/unditoto-backlink/) – Prediksi Togel Harian
-- Lebih banyak halaman akan ditambahkan secara otomatis (via script auto-post)
+## 🌐 Halaman Aktif
 
-## 🎯 Tujuan
-Repositori ini digunakan untuk:
-- Meningkatkan visibilitas Unditoto di mesin pencari
-- Menyediakan halaman prediksi yang ringan, cepat, dan mudah diindeks Google
-- Mendukung program SEO via GitHub Pages
+- ✅ [index.html](https://rcket118.github.io/unditoto-backlink/) — Prediksi Togel Harian
+- 🔄 Halaman tambahan akan ditambahkan secara otomatis melalui sistem autoposting
+
+---
+
+## 🎯 Tujuan Repositori
+
+- Menyediakan **halaman HTML SEO-friendly**
+- Menampung artikel backlink berkualitas
+- Mendukung kampanye Google Autocomplete & Google Index
+- Dihosting secara gratis di [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 🔗 Backlink Utama
+
+👉 [Klik untuk Kunjungi Situs Resmi Unditoto](https://mez.ink/unditotosini)
+
+---
+
+## ⚙️ Fitur Tambahan
+
+- 🔁 Sistem autopost via bot (`unditoto-autopost-files.zip`)
+- ⚡ Performa cepat & ringan
+- ✅ Valid HTML, mobile-friendly
+
+---
+
+## 📌 Struktur Folder (rencana)
+
+/
+├── index.html ← Artikel utama
+├── prediksi-hk.html ← [Next] Halaman prediksi harian HK
+├── link-unditoto.html ← [Next] Halaman backlink keyword brand
+├── sitemap.xml ← [Next] Untuk Google Indexing
+├── /artikel/ ← Folder isi artikel harian
+
+
+---
 
 ## ⚠️ Disclaimer
-Konten bersifat hiburan. Gunakan dengan bijak.
+
+> Konten dalam halaman ini bersifat hiburan.  
+> Gunakan informasi dengan bijak dan tanggung jawab.
+
+---
+
+## 🛠️ Credits
+
+🧠 Autopost script by ChatGPT x Rocket  
+📤 Hosted via [GitHub Pages](https://pages.github.com/)
